@@ -27,9 +27,9 @@ var roleHarvester = {
                 /*if(creep.upgradeController(creep.room.controller) == ERR_NOT_IN_RANGE) {
                     creep.moveTo(creep.room.controller, {visualizePathStyle: {stroke: '#ffffff'}});
                 }*/
-                var newName = 'Upgrader' + Game.time;
+                /*var newName = 'Upgrader' + Game.time;
                 var res = Game.spawns['Spawn1'].spawnCreep([WORK,WORK,CARRY,MOVE], newName,
-                    {memory: {role: 'upgrader'}});
+                    {memory: {role: 'upgrader'}});*/
 
             }
       }
